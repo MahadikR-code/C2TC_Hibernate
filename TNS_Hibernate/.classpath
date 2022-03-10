@@ -3,6 +3,7 @@
 	<classpathentry kind="src" path="CRUD_Operations_using_Hibernate"/>
 	<classpathentry kind="src" path="Hibernate_Inheritance"/>
 	<classpathentry kind="src" path="JPA_Queries"/>
+	<classpathentry kind="src" path="Hibernate_Association"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
 		<attributes>
 			<attribute name="module" value="true"/>
